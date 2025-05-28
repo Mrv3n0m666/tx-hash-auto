@@ -55,7 +55,7 @@ cd tx-hash-auto
 npm install
 ```
 🛠 Setup Your configuration
-- input your custom RPC url from any tetnet airdrop
+- input your custom RPC url any testnet airdrop
 - input your PrivateKey
 ```
 nano .env
